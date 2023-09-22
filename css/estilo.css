@@ -1,0 +1,47 @@
+.flexContainer{
+    display: flex;
+}
+
+.encabezado{
+    background-color:#052962;
+    width: 100%;
+    color: white;
+    display: flex;
+    font-size: small;
+
+}
+#encabezado1_1{
+    display: flex;
+}
+
+.derecho{
+width: 20%;
+height: 400px;
+}
+
+.centro{
+width: 40%;
+display: flex;
+color: white;
+f
+
+}
+
+#centro1_1{
+display: flex;
+background-color: #ab0613;    
+    
+}
+
+#centro1_2{
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 100vh;
+}
+.centroA{
+    display: flex;
+    flex-direction: column;
+}
+
+
